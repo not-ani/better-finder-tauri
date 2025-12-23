@@ -24,11 +24,6 @@ pub struct Object {
     pub modified: Option<String>,
 }
 
-pub struct PaginationOptions {
-    limit: usize,
-    offset: usize,
-}
-
 #[derive(Clone, Serialize, Deserialize)]
 pub struct SidebarItem {
     pub name: String,
