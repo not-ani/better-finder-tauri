@@ -24,15 +24,12 @@
   "bundle": {
     "active": true,
     "targets": "all",
-    "icon": [
-      "icons/logo-finder-32x32.png",
-      "icons/logo-128x128.png"
-    ],
+    "icon": ["icons/logo-finder-32x32.png", "icons/logo-128x128.png"],
     "createUpdaterArtifacts": true
   },
   "plugins": {
     "updater": {
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDVBRUI1RjkxMDY3OUY2RDUKUldUVjlua0drVi9yV2xWaXdWazlsdlZFdmQrQjhFN1ZvZ2crQlBwY3FRZ2psOWFmN0tHaDcydGcK",
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDlCNEE5QzA0NzdBMEM3NDYKUldSR3g2QjNCSnhLbStKbGJtUEI1bmhkMm5LeHdmR0w3WmZRemhZK3hCUUloR0EyUmZjcFRFNUkK",
       "endpoints": [
         "https://github.com/not-ani/better-finder-tauri/releases/latest/download/latest.json"
       ],
@@ -42,3 +39,4 @@
     }
   }
 }
+
