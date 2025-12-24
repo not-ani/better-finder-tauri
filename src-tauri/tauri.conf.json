@@ -29,7 +29,7 @@
   },
   "plugins": {
     "updater": {
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDlCNEE5QzA0NzdBMEM3NDYKUldSR3g2QjNCSnhLbStKbGJtUEI1bmhkMm5LeHdmR0w3WmZRemhZK3hCUUloR0EyUmZjcFRFNUkK",
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDE1MkIzM0I5MjFBREU0MUYKUldRZjVLMGh1VE1yRlFNQ3ZmTjBteDFBajBmRmVXVzVrVDFJblRYNWRBZWtrcFhTM1FwbERGTWoK",
       "endpoints": [
         "https://github.com/not-ani/better-finder-tauri/releases/latest/download/latest.json"
       ],
@@ -39,4 +39,3 @@
     }
   }
 }
-
